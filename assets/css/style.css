@@ -175,8 +175,8 @@ input[type=submit] {
 	color: #777777;
 }
 
-.porfolio{
-	
+.porfolio1 .portfolio2{
+position: relative;
 
 	
 }
@@ -185,14 +185,14 @@ input[type=submit] {
 	float: left;
 	margin: 30px;
 	width: 40%;
-	position: relative;
+	
 }
 
-h2{
+.game1 {
 	position: absolute;
-    top: 445px;
+    top: 463px;
     background-color: teal;
-    padding: 30px;
+    padding: 20px;
     width: 259px;
     left: 226px;
     text-align: center;
@@ -201,30 +201,63 @@ h2{
     font-size: 20px;
 }
 
-.img2{
-	float: left;
-	margin: 30px;
-	width: 40%;
-	position: relative;
+
+
+
+
+.game2 {
+	position: absolute;
+    top: 463px;
+    background-color: teal;
+    padding: 20px;
+    width: 259px;
+    left: 545px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 20px;
 }
 
-.img3{
-	float: left;
-	margin: 30px;
-	width: 40%;
 
+
+.game3{
+	position: absolute;
+    top: 717px;
+    background-color: teal;
+    padding: 20px;
+    width: 259px;
+    left: 226px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 20px;
 }
 
-.img4{
-	float: left;
-	margin: 30px;
-	width: 40%;
 
+
+.game4{
+	position: absolute;
+    top: 717px;
+    background-color: teal;
+    padding: 20px;
+    width: 259px;
+    left: 545px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 20px;
 }
 
-.img5{
-	float: left;
-	margin: 30px;
-	width: 40%;
 
+.game5{
+	position: absolute;
+    top: 975px;
+    background-color: teal;
+    padding: 20px;
+    width: 259px;
+    left: 226px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 20px;
 }
