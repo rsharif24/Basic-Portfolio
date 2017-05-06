@@ -185,13 +185,13 @@ position: relative;
 	float: left;
 	margin: 30px;
 	width: 40%;
-	
+	opacity: 0.7;
 }
 
 .game1 {
 	position: absolute;
     top: 463px;
-    background-color: teal;
+    background-color: #4aaaa5;
     padding: 20px;
     width: 259px;
     left: 226px;
@@ -202,13 +202,10 @@ position: relative;
 }
 
 
-
-
-
 .game2 {
 	position: absolute;
     top: 463px;
-    background-color: teal;
+    background-color: #4aaaa5;
     padding: 20px;
     width: 259px;
     left: 545px;
@@ -223,7 +220,7 @@ position: relative;
 .game3{
 	position: absolute;
     top: 717px;
-    background-color: teal;
+    background-color: #4aaaa5;
     padding: 20px;
     width: 259px;
     left: 226px;
@@ -238,7 +235,7 @@ position: relative;
 .game4{
 	position: absolute;
     top: 717px;
-    background-color: teal;
+    background-color: #4aaaa5;
     padding: 20px;
     width: 259px;
     left: 545px;
@@ -252,7 +249,7 @@ position: relative;
 .game5{
 	position: absolute;
     top: 975px;
-    background-color: teal;
+    background-color: #4aaaa5;
     padding: 20px;
     width: 259px;
     left: 226px;
